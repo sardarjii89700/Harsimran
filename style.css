@@ -1,0 +1,54 @@
+h1,h2,h3,h4,h5,h6{
+    color: #556270;
+}
+h1{
+    font-size: 50px;
+    color: #444444;
+}
+p{
+    
+    color: #444444;
+}
+.pt{
+    color: #556270;
+}
+.corp{
+    background: #f8f9fa;
+}
+.sail{
+    background: #515D6A;
+}
+.copy{
+    background: #4A5562;
+}
+.h7{
+    color: #444444;
+}
+body{
+    font-family: raleway, sans-serif;
+}
+.blog .sidebar .tags ul a {
+    color: #96a2af;
+    font-size: 14px;
+    padding: 6px 14px;
+    margin: 0 6px 8px 0;
+    border: 1px solid white;
+    display: inline-block;
+    transition: 0.3s;
+}
+.faq h2::after {
+    content: "";
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #e6636a;
+    margin: 4px 10px;
+}
+ li a{
+        color: #96a2af!important;
+    
+    
+}
+ li a:hover{
+    color: #e6636a!important;
+}
